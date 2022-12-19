@@ -2,11 +2,9 @@
 
 # Project name:   BlueStone(jewelry store) 
 
-# Industry*:
-Lifestyle
+# Industry*: Lifestyle
 
-# Project Title*:
-Blue stone(Jewelry store) with bot
+# Project Title*: Blue stone(Jewelry store) with bot
 
 # Problem Statement/Opportunity*:
 Blue stone(jewelry stone) with bot help-With the development of the times and the promotion of technology, people’s living standards and aesthetic requirements have also been continuously improved. Intelligent design enables jewelry to break through its position in the traditional sense It is no longer limited to the handmade production of precious metals. Intelligent design can also be applied to jewelry design. The unlimited choice of materials allows designers to have greater design space and imagination. With the development of fashion trends, jewelry as a kind of decoration, in another way shows the personal quality of life and life attitude. Therefore, the more diversified forms of jewelry design are eclectic, and the pursuit of higher levels and more comprehensive forms to create fashionable and personalized products, with bot query facility
