@@ -1,29 +1,29 @@
-##This is Sireesha..Here is about my FRT project details:
+## This is Sireesha..Here is about my FRT project details:
 
-#Project name:   BlueStone(jewelry store) 
+# Project name:   BlueStone(jewelry store) 
 
-#Industry*:
+# Industry*:
 Lifestyle
 
-#Project Title*:
+# Project Title*:
 Blue stone(Jewelry store) with bot
 
-#Problem Statement/Opportunity*:
+# Problem Statement/Opportunity*:
 Blue stone(jewelry stone) with bot help-With the development of the times and the promotion of technology, people’s living standards and aesthetic requirements have also been continuously improved. Intelligent design enables jewelry to break through its position in the traditional sense It is no longer limited to the handmade production of precious metals. Intelligent design can also be applied to jewelry design. The unlimited choice of materials allows designers to have greater design space and imagination. With the development of fashion trends, jewelry as a kind of decoration, in another way shows the personal quality of life and life attitude. Therefore, the more diversified forms of jewelry design are eclectic, and the pursuit of higher levels and more comprehensive forms to create fashionable and personalized products, with bot query facility
 
-#Project Description*:
+# Project Description*:
 Jewelry gives us the means to express our own style and individuality. Costume jewelry is the rage these days, with people having pieces that fit just about any occasion. And nobody asks whether it is the ‘real’ thing. Crystals of all shapes and sizes adorn our earrings, rings, bracelets, and necklaces, and are set in anything from 18-carat gold to a copper wire. If it fits the clothes and the occasion, the piece works.
 
-#Primary Azure Technology*:
+# Primary Azure Technology*:
 Azure Bot Service, Static Web Apps
 
-#Webtechnologies used:
+# Webtechnologies used:
 Html,
 Css,
 Java Script,
 Jquery.
 
-#Project Demo links:
+# Project Demo links:
 
 Github Reposistory Link:
 
@@ -35,7 +35,7 @@ Youtube Project Demo url:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Microsoft Azure Resources,Static webapp,Azure bot services screen shots:
+# Microsoft Azure Resources,Static webapp,Azure bot services screen shots:
 
 Azure Resources page:
 
@@ -64,7 +64,7 @@ Azure bot test in webchat2:
 Azure bot test in webchat3:
 ![jel azure bot test in webchat3](https://user-images.githubusercontent.com/120357216/208388172-d8e084de-b623-4aaa-8a86-320355cad54e.png)
 
-#Project ScreenShots:
+# Project ScreenShots:
 
 Homepage:
 ![jel homepage](https://user-images.githubusercontent.com/120357216/208388581-6f398305-8b15-41e1-953a-ea820857f24e.png)
@@ -80,7 +80,7 @@ Jewellery page:
 Contact us page:
 ![jel contact us page](https://user-images.githubusercontent.com/120357216/208388832-042908d9-f5a1-4bd3-b9d1-84d6dcb50c39.png)
 
-Azure bot functionality screen shots:
+# Azure bot functionality screen shots:
 
 
 
