@@ -23,11 +23,11 @@ Jquery.
 
 # Project Demo links:
 
-Github Reposistory Link:
+Github Reposistory Link: https://github.com/nagasiri8501/blue-stone
 
-GIthub Project Link:
+GIthub Project Link: https://nagasiri8501.github.io/blue-stone/
 
-Azure Project Link:
+Azure Project Link:https://polite-coast-00555a910.2.azurestaticapps.net
 
 Youtube Project Demo url:
 
